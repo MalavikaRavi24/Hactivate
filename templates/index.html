@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boring Bot</title>
+    <style>
+        body { font-family:Bernard MT Condensed, sans-serif; background-color: #c8cad7; padding: 20px; }
+        #chat { margin-top: 20px; }
+        .message { margin: 5px; padding: 10px; border-radius: 5px; }
+        .user { background-color: #d7a7c3; }
+        .bot { background-color: #9dbfd7; }
+    </style>
+</head>
+<body>
+    <h1>Boring Bot</h1>
+    <div id="chat"></div>
+    <input type="text" id="user_input" placeholder="Say something...">
+    <button id="send">Send</button>
+
+    <script>
+        document.getElementById('send').onclick = function() {
+            const userInput = document.getElementById('user_input').value;
+            document.getElementById('user_input').value = '';
+            const chat = document.getElementById('chat');
+            chat.innerHTML += `<div class="message user">${userInput}</div>`;
+
+            fetch('/ask', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: `user_input=${userInput}`
+            })
+            .then(response => response.json())
+            .then(data => {
+                chat.innerHTML += `<div class="message bot">${data.response}</div>`;
+            });
+        };
+    </script>
+</body>
+</html>
