@@ -45,54 +45,17 @@ cd [project-folder]
 
 # Run
 flask run/python [main-file-name].py
+
 http://127.0.0.1:5000/.
 
 
 
-
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (298)](https://github.com/user-attachments/assets/e279aaf8-79d3-42a0-932d-142ac6aa7b9c)
+![Screenshot (299)](https://github.com/user-attachments/assets/5ced8bec-8ec7-4ecc-8350-99ff6e9442d0)
+![Screenshot (300)](https://github.com/user-attachments/assets/ac687a5b-0e43-4ed3-9d48-b187f5c9a9e2)
+![Screenshot (301)](https://github.com/user-attachments/assets/c993e913-afe7-4cbd-8c58-e06b57e551fc)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Achuth S Pai
