@@ -27,24 +27,31 @@ Track the conversation context so that the bot can show varying degrees of inter
 ### Technologies/Components Used
 For Software:
 Programming Language: Python, JavaScript (ES6)
+
 Frameworks Used: Flask, Flask-Jinja2
+
 Libraries Used: Datetime, Random, Flask-CORS (optional)
+
 Tools Used: VS Code, Browser Developer Tools
 
 For Hardware:
 Main Components: Computer with at least Intel i3 or AMD equivalent processor
+
 Specifications: Minimum 4 GB RAM (8 GB recommended), minimal storage requirements
+
 Tools Required: VS Code, Browser (Chrome or Firefox for testing)
 
 ### Implementation
 For Software:
 # Installation
 Clone the Project Repository:
+
 git clone 
-cd [project-folder]
+
+cd BORINGBOT
 
 # Run
-flask run/python [main-file-name].py
+flask run/python boring_bot.py
 
 http://127.0.0.1:5000/.
 
