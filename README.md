@@ -25,7 +25,8 @@ Track the conversation context so that the bot can show varying degrees of inter
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
+# For Software:
+
 Programming Language: Python, JavaScript (ES6)
 
 Frameworks Used: Flask, Flask-Jinja2
@@ -34,7 +35,8 @@ Libraries Used: Datetime, Random, Flask-CORS (optional)
 
 Tools Used: VS Code, Browser Developer Tools
 
-For Hardware:
+# For Hardware:
+
 Main Components: Computer with at least Intel i3 or AMD equivalent processor
 
 Specifications: Minimum 4 GB RAM (8 GB recommended), minimal storage requirements
