@@ -1,46 +1,54 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# BORING BOT 
 
 
-## Basic Details
-### Team Name: [Name]
+## An AI that deliberately tries to keep a conversation dull by replying with the most boring and irrelevent facts,It makes any any conversationawkward and slow.
+### Team Name: HACKIVATE
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Achuth S Pai - SCMS SCHOOL OFENGINEERING AND TECHNOLOGY
+- Member 2: Fidha VS - SCMS SCHOOL OFENGINEERING AND TECHNOLOGY
+- Member 3: Malavika Ravi- SCMS SCHOOL OFENGINEERING AND TECHNOLOGY
 
 ### Project Description
-[2-3 lines about what your project does]
-
+An AI that deliberately tries to keep a conversation dull by replying with the most boring and irrelevent facts,It makes any any conversationawkward and slow.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Limited Engagement Due to Predictable Responses.Since the bot gives only indifferent or dismissive responses, users might quickly lose interest, as there is minimal variation in tone or content.
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Add more personality traits, such as occasional moments of enthusiasm or sarcasm.
+Create a more dynamic personality that might occasionally "cheer up" or "get bored" in reaction to different kinds of user input.
+Track the conversation context so that the bot can show varying degrees of interest based on topics or user engagement levels.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Programming Language: Python, JavaScript (ES6)
+Frameworks Used: Flask, Flask-Jinja2
+Libraries Used: Datetime, Random, Flask-CORS (optional)
+Tools Used: VS Code, Browser Developer Tools
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Main Components: Computer with at least Intel i3 or AMD equivalent processor
+Specifications: Minimum 4 GB RAM (8 GB recommended), minimal storage requirements
+Tools Required: VS Code, Browser (Chrome or Firefox for testing)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Clone the Project Repository:
+git clone 
+cd [project-folder]
 
 # Run
-[commands]
+flask run/python [main-file-name].py
+http://127.0.0.1:5000/.
+
+
+
 
 ### Project Documentation
 For Software:
@@ -87,10 +95,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- Achuth S Pai
+- Fidha VS
+- Malavika Ravi
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
