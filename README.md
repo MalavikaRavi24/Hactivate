@@ -18,6 +18,8 @@ An AI that deliberately tries to keep a conversation dull by replying with the m
 Limited Engagement Due to Predictable Responses.Since the bot gives only indifferent or dismissive responses, users might quickly lose interest, as there is minimal variation in tone or content.
 
 
+https://drive.google.com/drive/folders/1-7zOxv_10wYKDinrmnujg2747pxSPwpQ
+
 ### The Solution (that nobody asked for)
 Add more personality traits, such as occasional moments of enthusiasm or sarcasm.
 Create a more dynamic personality that might occasionally "cheer up" or "get bored" in reaction to different kinds of user input.
